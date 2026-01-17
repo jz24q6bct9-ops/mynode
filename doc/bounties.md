@@ -63,4 +63,4 @@ If you have questions about exporting data or other features, please reach out t
 
 ## Contributing Without Bounties
 
-Even without active bounties, contributions are always welcome! Check out the [development guide](https://github.com/mynodebtc/mynode/blob/master/doc/development.md) to get started.
+Even without active bounties, contributions are always welcome! Check out the [development guide](development.md) to get started.
