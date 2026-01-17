@@ -52,6 +52,15 @@ For questions about bounties or to discuss payment after completing a bounty:
 - Community Chat: [Telegram](https://t.me/mynode_btc)
 - GitHub Issues: [MyNode Repository](https://github.com/mynodebtc/mynode/issues)
 
+## Note on Data Export
+
+If you're looking for information about exporting data from MyNode:
+- **Wallet Export**: MyNode supports exporting Bitcoin wallet data through the wallet management interface
+- **Backup Features**: Channel backup and other data export features are available through the respective application interfaces
+- **Documentation**: For specific export functionality, please refer to the application-specific documentation or ask in the community chat
+
+If you have questions about exporting data or other features, please reach out through the contact channels listed above.
+
 ## Contributing Without Bounties
 
 Even without active bounties, contributions are always welcome! Check out the [development guide](https://github.com/mynodebtc/mynode/blob/master/doc/development.md) to get started.
