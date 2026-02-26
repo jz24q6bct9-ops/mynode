@@ -329,7 +329,7 @@ if ! skip_base_upgrades ; then
     fi
 
     # Update NPM (Node Package Manager)
-    #npm install -g npm@$NODE_NPM_VERSION
+    npm install -g npm@$NODE_NPM_VERSION
     npm install -g yarn @quasar/cli
     
     # Install Docker
